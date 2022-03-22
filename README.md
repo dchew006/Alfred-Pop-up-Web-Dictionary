@@ -9,6 +9,7 @@ A quick replacement for a popup style dictionary for Alfred while developers upd
 Hit escape to exit the pop up window
 
 # Setup
-1. Download automation script and save to a preferred location
-2. Open the workflow and edit the script to include your pathname referencing the location of the automation script encapsulated within in the "".
+1. Download automation script titled 'window popup' and save to a preferred location
+2. Edit the script to include your pathname referencing the location of the 'window popup'file encapsulated within in the "".
 
+![image](https://user-images.githubusercontent.com/98722477/159405673-92ac59eb-3621-4f72-9182-a76929f7490a.png)
