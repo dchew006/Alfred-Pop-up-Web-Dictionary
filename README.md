@@ -1,9 +1,9 @@
 # Alfred Web Pop-up Dictionary
 A quick replacement for a popup style dictionary for Alfred while developers update their workflows for macos 12.3
 
-## Passes dictionary queries to the cambridge dcitonary website and shows results via a pop-up window
+## A simple dictionary workflow that emulates the Urban Dictionary workflow by Arthur Pinheiro
 
-A simple dictionary workflow that emulates the Urban Dictionary workflow by Arthur Pinheiro
+- Passes query to the cambridge dictonary website and shows results via a pop-up window
 
 * Hit escape to exit popup
 
